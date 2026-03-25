@@ -17,8 +17,8 @@ I build AI systems that ship — agents, MCP servers, orchestration layers, and 
 | **[ShipFast](https://github.com/noahrasheta/shipfast)** | Collection of plugins, agents, and skills I use to ship fast. |
 | **[Mailchimp MCP Server](https://github.com/noahrasheta/mailchimp-mcp-server)** | MCP server connecting Mailchimp to Claude Code and other AIs. |
 | **[X MCP Server](https://github.com/noahrasheta/x-mcp-server)** | MCP server connecting X/Twitter to Claude Code and other AIs. |
-| **[Portrait.pet](https://github.com/noahrasheta/portrait-pet)** | AI-powered pet portrait generation platform. |
-| **[Eightfold Path](https://github.com/noahrasheta/eightfoldpath-website)** | AI chatbot serving thousands of users in the Secular Buddhism community. |
+| **[Portrait.pet](https://www.portrait.pet)** | AI-powered pet portrait generation platform. |
+| **[Eightfold Path](https://eightfoldpath.com)** | AI chatbot serving thousands of users in the Secular Buddhism community. |
 
 ### Open Source Contributions
 
