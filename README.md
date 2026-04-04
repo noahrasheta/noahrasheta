@@ -1,6 +1,6 @@
 # Noah Rasheta
 
-**Head of AI Implementation | Director of Marketing @ Data Canopy**
+**AI Orchestrator | Director of Marketing @ Data Canopy**
 Building enterprise AI workflows, agents, and orchestration systems.
 MS Applied AI (UVU) · Best-selling author · Host of the #1 Buddhism podcast worldwide.
 
